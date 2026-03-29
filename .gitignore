@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+uploads/
+*.pdf
+ranked_resumes.csv
+venv/
+.venv/
+.env
+.DS_Store
+Thumbs.db
